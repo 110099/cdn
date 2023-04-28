@@ -1,4 +1,4 @@
-127.0.0.249 alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com
+119.84.52.199 alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com
 127.0.0.249 cache1-lax1.steamcontent.com
 127.0.0.249 cache2-lax1.steamcontent.com
 127.0.0.249 cache3-lax1.steamcontent.com
