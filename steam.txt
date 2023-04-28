@@ -1,4 +1,7 @@
-119.84.52.199 alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com
+203.195.76.32 cdn-ali.content.steamchina.com
+203.195.76.32 xz.pphimalayanrt.com
+203.195.76.32 lv.queniujq.cn
+203.195.76.32 alibaba.cdn.steampipe.steamcontent.com
 192.168.11.11 cache1-lax1.steamcontent.com
 192.168.11.11 cache2-lax1.steamcontent.com
 192.168.11.11 cache3-lax1.steamcontent.com
@@ -417,6 +420,7 @@
 192.168.11.11 cache9-seo1.steamcontent.com
 192.168.11.11 google.cdn.steampipe.steamcontent.com
 192.168.11.11 google2.cdn.steampipe.steamcontent.com
+192.168.11.11 alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com
 192.168.11.11 edge.steam-dns.top.comcast.net
 192.168.11.11 steam.eca.qtlglb.com
 192.168.11.11 steam.naeu.qtlglb.com
