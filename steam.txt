@@ -1,7 +1,6 @@
-203.195.76.32 cdn-ali.content.steamchina.com
-203.195.76.32 xz.pphimalayanrt.com
-203.195.76.32 lv.queniujq.cn
-203.195.76.32 alibaba.cdn.steampipe.steamcontent.com
+113.249.87.154 cdn-ali.content.steamchina.com
+113.249.87.154 xz.pphimalayanrt.com
+113.249.87.154 lv.queniujq.cn
 45.195.21.103 steamstore-a.akamaihd.net #uu_acc
 23.200.152.81 store.steampowered.com #uu_acc
 45.195.21.109 steamcommunity-a.akamaihd.net #uu_acc
