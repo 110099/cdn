@@ -2,6 +2,12 @@
 203.195.76.32 xz.pphimalayanrt.com
 203.195.76.32 lv.queniujq.cn
 203.195.76.32 alibaba.cdn.steampipe.steamcontent.com
+45.195.21.103 steamstore-a.akamaihd.net #uu_acc
+23.200.152.81 store.steampowered.com #uu_acc
+45.195.21.109 steamcommunity-a.akamaihd.net #uu_acc
+45.195.21.112 community.steamstatic.com #uu_acc
+45.195.21.83 store.akamai.steamstatic.com #uu_acc
+45.195.21.72 cdn.akamai.steamstatic.com #uu_acc
 192.168.11.11 cache1-lax1.steamcontent.com
 192.168.11.11 cache2-lax1.steamcontent.com
 192.168.11.11 cache3-lax1.steamcontent.com
