@@ -314,7 +314,7 @@ rules=[
 [[routes.Outs]]
 listen=""
 type="ss"
-server="sgkjs.nodefunction.vip"
+server="sgjs.nodefunction.vip"
 port=1234
 password="123456"
 cipher="aes-256-gcm"
