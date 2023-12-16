@@ -237,7 +237,6 @@ rules=[
 "domain:biliapi.com",
 "domain:biliapi.net",
 "domain:bilibili.com",
-"domain:bilibili.tv",
 "domain:bilibiligame.net",
 "domain:bilicdn1.com",
 "domain:bilicdn2.com",
@@ -304,7 +303,7 @@ rules=[
 [[routes.Outs]]
 listen=""
 type="ss"
-server="sgkjs.nodefunction.vip"
+server="sgjs.nodefunction.vip"
 port=1234
 password="123456"
 cipher="aes-256-gcm"
