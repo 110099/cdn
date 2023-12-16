@@ -266,7 +266,6 @@ cipher="aes-256-gcm"
 [[routes]]
 rules=[
 "domain:max.com",
-"geosite:tiktok",
 ]
 
 [[routes.Outs]]
