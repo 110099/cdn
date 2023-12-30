@@ -4,8 +4,6 @@ enable=true
 #nfdy
 [[routes]]
 rules=[
-"domain:fast.com",
-"domain:fast.com",
 "domain:netflix.com",
 "domain:netflix.net",
 "domain:netflixinvestor.com",
