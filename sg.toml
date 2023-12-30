@@ -141,12 +141,12 @@ rules=[
 ]
 
 [[routes.Outs]]
-listen=""
+listen="" 
 type="ss"
-server="sgjs.nodefunction.vip"
-port=1234
-password="123456"
-cipher="aes-256-gcm"
+server="aaa.com"
+port=12345
+password="asdasd"
+cipher="aes-128-gcm"
 
 #HKG
 [[routes]]
@@ -255,7 +255,7 @@ rules=[
 [[routes.Outs]]
 listen=""
 type="ss"
-server="twjs.nodefunction.vip "
+server="twjs.nodefunction.vip"
 port=1234
 password="123456"
 cipher="aes-256-gcm"
@@ -264,6 +264,7 @@ cipher="aes-256-gcm"
 [[routes]]
 rules=[
 "domain:max.com",
+"geosite:tiktok",
 ]
 
 [[routes.Outs]]
