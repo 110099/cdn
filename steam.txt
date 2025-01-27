@@ -1,432 +1,69 @@
-192.168.11.11 cache1-lax1.steamcontent.com
-192.168.11.11 cache2-lax1.steamcontent.com
-192.168.11.11 cache3-lax1.steamcontent.com
-192.168.11.11 cache4-lax1.steamcontent.com
-192.168.11.11 cache5-lax1.steamcontent.com
-192.168.11.11 cache6-lax1.steamcontent.com
-192.168.11.11 cache7-lax1.steamcontent.com
-192.168.11.11 cache8-lax1.steamcontent.com
-192.168.11.11 cache9-lax1.steamcontent.com
-192.168.11.11 cache10-lax1.steamcontent.com
-192.168.11.11 cache11-lax1.steamcontent.com
-192.168.11.11 cache12-lax1.steamcontent.com
-192.168.11.11 cache13-lax1.steamcontent.com
-192.168.11.11 cache14-lax1.steamcontent.com
-192.168.11.11 cache15-lax1.steamcontent.com
-192.168.11.11 cache16-lax1.steamcontent.com
-192.168.11.11 cache17-lax1.steamcontent.com
-192.168.11.11 cache18-lax1.steamcontent.com
-192.168.11.11 cache19-lax1.steamcontent.com
-192.168.11.11 cache20-lax1.steamcontent.com
-192.168.11.11 cache21-lax1.steamcontent.com
-192.168.11.11 cache1-iad1.steamcontent.com
-192.168.11.11 cache2-iad1.steamcontent.com
-192.168.11.11 cache3-iad1.steamcontent.com
-192.168.11.11 cache4-iad1.steamcontent.com
-192.168.11.11 cache5-iad1.steamcontent.com
-192.168.11.11 cache6-iad1.steamcontent.com
-192.168.11.11 cache7-iad1.steamcontent.com
-192.168.11.11 cache8-iad1.steamcontent.com
-192.168.11.11 cache9-iad1.steamcontent.com
-192.168.11.11 cache10-iad1.steamcontent.com
-192.168.11.11 cache11-iad1.steamcontent.com
-192.168.11.11 cache12-iad1.steamcontent.com
-192.168.11.11 cache13-iad1.steamcontent.com
-192.168.11.11 cache14-iad1.steamcontent.com
-192.168.11.11 cache15-iad1.steamcontent.com
-192.168.11.11 cache16-iad1.steamcontent.com
-192.168.11.11 cache17-iad1.steamcontent.com
-192.168.11.11 cache18-iad1.steamcontent.com
-192.168.11.11 cache19-iad1.steamcontent.com
-192.168.11.11 cache20-iad1.steamcontent.com
-192.168.11.11 cache21-iad1.steamcontent.com
-192.168.11.11 cache22-iad1.steamcontent.com
-192.168.11.11 cache23-iad1.steamcontent.com
-192.168.11.11 cache24-iad1.steamcontent.com
-192.168.11.11 cache25-iad1.steamcontent.com
-192.168.11.11 cache26-iad1.steamcontent.com
-192.168.11.11 cache27-iad1.steamcontent.com
-192.168.11.11 cache28-iad1.steamcontent.com
-192.168.11.11 cache1-yvr-shaw.steamcontent.com
-192.168.11.11 cache1-fra1.steamcontent.com
-192.168.11.11 cache2-fra1.steamcontent.com
-192.168.11.11 cache3-fra1.steamcontent.com
-192.168.11.11 cache4-fra1.steamcontent.com
-192.168.11.11 cache5-fra1.steamcontent.com
-192.168.11.11 cache6-fra1.steamcontent.com
-192.168.11.11 cache7-fra1.steamcontent.com
-192.168.11.11 cache9-fra1.steamcontent.com
-192.168.11.11 cache10-fra1.steamcontent.com
-192.168.11.11 cache11-fra1.steamcontent.com
-192.168.11.11 cache13-fra1.steamcontent.com
-192.168.11.11 cache14-fra1.steamcontent.com
-192.168.11.11 cache15-fra1.steamcontent.com
-192.168.11.11 cache16-fra1.steamcontent.com
-192.168.11.11 cache21-fra1.steamcontent.com
-192.168.11.11 cache22-fra1.steamcontent.com
-192.168.11.11 cache23-fra1.steamcontent.com
-192.168.11.11 cache24-fra1.steamcontent.com
-192.168.11.11 cache25-fra1.steamcontent.com
-192.168.11.11 cache26-fra1.steamcontent.com
-192.168.11.11 cache27-fra1.steamcontent.com
-192.168.11.11 cache28-fra1.steamcontent.com
-192.168.11.11 cache29-fra1.steamcontent.com
-192.168.11.11 cache30-fra1.steamcontent.com
-192.168.11.11 cache31-fra1.steamcontent.com
-192.168.11.11 cache32-fra1.steamcontent.com
-192.168.11.11 cache33-fra1.steamcontent.com
-192.168.11.11 cache34-fra1.steamcontent.com
-192.168.11.11 cache35-fra1.steamcontent.com
-192.168.11.11 cache36-fra1.steamcontent.com
-192.168.11.11 cache37-fra1.steamcontent.com
-192.168.11.11 cache38-fra1.steamcontent.com
-192.168.11.11 cache39-fra1.steamcontent.com
-192.168.11.11 cache40-fra1.steamcontent.com
-192.168.11.11 cache41-fra1.steamcontent.com
-192.168.11.11 cache42-fra1.steamcontent.com
-192.168.11.11 cache43-fra1.steamcontent.com
-192.168.11.11 cache44-fra1.steamcontent.com
-192.168.11.11 cache45-fra1.steamcontent.com
-192.168.11.11 cache46-fra1.steamcontent.com
-192.168.11.11 cache47-fra1.steamcontent.com
-192.168.11.11 cache48-fra1.steamcontent.com
-192.168.11.11 cache49-fra1.steamcontent.com
-192.168.11.11 cache50-fra1.steamcontent.com
-192.168.11.11 cache51-fra1.steamcontent.com
-192.168.11.11 cache52-fra1.steamcontent.com
-192.168.11.11 cache53-fra1.steamcontent.com
-192.168.11.11 cache54-fra1.steamcontent.com
-192.168.11.11 cache55-fra1.steamcontent.com
-192.168.11.11 cache56-fra1.steamcontent.com
-192.168.11.11 cache57-fra1.steamcontent.com
-192.168.11.11 cache58-fra1.steamcontent.com
-192.168.11.11 cache59-fra1.steamcontent.com
-192.168.11.11 cache61-fra1.steamcontent.com
-192.168.11.11 cache62-fra1.steamcontent.com
-192.168.11.11 cache63-fra1.steamcontent.com
-192.168.11.11 cache64-fra1.steamcontent.com
-192.168.11.11 cache65-fra1.steamcontent.com
-192.168.11.11 cache66-fra1.steamcontent.com
-192.168.11.11 cache67-fra1.steamcontent.com
-192.168.11.11 cache68-fra1.steamcontent.com
-192.168.11.11 cache69-fra1.steamcontent.com
-192.168.11.11 cache1-atl1.steamcontent.com
-192.168.11.11 cache2-atl1.steamcontent.com
-192.168.11.11 cache3-atl1.steamcontent.com
-192.168.11.11 cache4-atl1.steamcontent.com
-192.168.11.11 cache6-atl1.steamcontent.com
-192.168.11.11 cache7-atl1.steamcontent.com
-192.168.11.11 cache8-atl1.steamcontent.com
-192.168.11.11 cache9-atl1.steamcontent.com
-192.168.11.11 cache10-atl1.steamcontent.com
-192.168.11.11 cache11-atl1.steamcontent.com
-192.168.11.11 cache1-sto1.steamcontent.com
-192.168.11.11 cache2-sto1.steamcontent.com
-192.168.11.11 cache3-sto1.steamcontent.com
-192.168.11.11 cache4-sto1.steamcontent.com
-192.168.11.11 cache5-sto1.steamcontent.com
-192.168.11.11 cache6-sto1.steamcontent.com
-192.168.11.11 cache7-sto1.steamcontent.com
-192.168.11.11 cache8-sto1.steamcontent.com
-192.168.11.11 cache9-sto1.steamcontent.com
-192.168.11.11 cache10-sto1.steamcontent.com
-192.168.11.11 cache1-hkg1.steamcontent.com
-192.168.11.11 cache2-hkg1.steamcontent.com
-192.168.11.11 cache3-hkg1.steamcontent.com
-192.168.11.11 cache4-hkg1.steamcontent.com
-192.168.11.11 cache5-hkg1.steamcontent.com
-192.168.11.11 cache6-hkg1.steamcontent.com
-192.168.11.11 cache1-gru1.steamcontent.com
-192.168.11.11 cache2-gru1.steamcontent.com
-192.168.11.11 cache3-gru1.steamcontent.com
-192.168.11.11 cache4-gru1.steamcontent.com
-192.168.11.11 cache6-gru1.steamcontent.com
-192.168.11.11 cache7-gru1.steamcontent.com
-192.168.11.11 cache8-gru1.steamcontent.com
-192.168.11.11 cache1-hrk-retn.steamcontent.com
-192.168.11.11 cache2-hrk-retn.steamcontent.com
-192.168.11.11 cache1-ord1.steamcontent.com
-192.168.11.11 cache2-ord1.steamcontent.com
-192.168.11.11 cache3-ord1.steamcontent.com
-192.168.11.11 cache4-ord1.steamcontent.com
-192.168.11.11 cache5-ord1.steamcontent.com
-192.168.11.11 cache6-ord1.steamcontent.com
-192.168.11.11 cache8-ord1.steamcontent.com
-192.168.11.11 cache9-ord1.steamcontent.com
-192.168.11.11 cache10-ord1.steamcontent.com
-192.168.11.11 cache11-ord1.steamcontent.com
-192.168.11.11 cache12-ord1.steamcontent.com
-192.168.11.11 cache13-ord1.steamcontent.com
-192.168.11.11 cache14-ord1.steamcontent.com
-192.168.11.11 cache15-ord1.steamcontent.com
-192.168.11.11 cache16-ord1.steamcontent.com
-192.168.11.11 cache17-ord1.steamcontent.com
-192.168.11.11 cache18-ord1.steamcontent.com
-192.168.11.11 cache19-ord1.steamcontent.com
-192.168.11.11 cache20-ord1.steamcontent.com
-192.168.11.11 cache1-man1.steamcontent.com
-192.168.11.11 cache2-man1.steamcontent.com
-192.168.11.11 cache1-sea1.steamcontent.com
-192.168.11.11 cache2-sea1.steamcontent.com
-192.168.11.11 cache3-sea1.steamcontent.com
-192.168.11.11 cache4-sea1.steamcontent.com
-192.168.11.11 cache5-sea1.steamcontent.com
-192.168.11.11 cache6-sea1.steamcontent.com
-192.168.11.11 cache8-sea1.steamcontent.com
-192.168.11.11 cache10-sea1.steamcontent.com
-192.168.11.11 cache11-sea1.steamcontent.com
-192.168.11.11 cache12-sea1.steamcontent.com
-192.168.11.11 cache1-yyz-bell.steamcontent.com
-192.168.11.11 cache2-yyz-bell.steamcontent.com
-192.168.11.11 cache1-ywg-shaw.steamcontent.com
-192.168.11.11 cache1-lhr1.steamcontent.com
-192.168.11.11 cache2-lhr1.steamcontent.com
-192.168.11.11 cache3-lhr1.steamcontent.com
-192.168.11.11 cache4-lhr1.steamcontent.com
-192.168.11.11 cache5-lhr1.steamcontent.com
-192.168.11.11 cache6-lhr1.steamcontent.com
-192.168.11.11 cache8-lhr1.steamcontent.com
-192.168.11.11 cache10-lhr1.steamcontent.com
-192.168.11.11 cache11-lhr1.steamcontent.com
-192.168.11.11 cache12-lhr1.steamcontent.com
-192.168.11.11 cache13-lhr1.steamcontent.com
-192.168.11.11 cache14-lhr1.steamcontent.com
-192.168.11.11 cache15-lhr1.steamcontent.com
-192.168.11.11 cache16-lhr1.steamcontent.com
-192.168.11.11 cache19-lhr1.steamcontent.com
-192.168.11.11 cache20-lhr1.steamcontent.com
-192.168.11.11 cache21-lhr1.steamcontent.com
-192.168.11.11 cache22-lhr1.steamcontent.com
-192.168.11.11 cache23-lhr1.steamcontent.com
-192.168.11.11 cache24-lhr1.steamcontent.com
-192.168.11.11 cache25-lhr1.steamcontent.com
-192.168.11.11 cache26-lhr1.steamcontent.com
-192.168.11.11 cache27-lhr1.steamcontent.com
-192.168.11.11 cache28-lhr1.steamcontent.com
-192.168.11.11 cache29-lhr1.steamcontent.com
-192.168.11.11 cache30-lhr1.steamcontent.com
-192.168.11.11 cache31-lhr1.steamcontent.com
-192.168.11.11 cache32-lhr1.steamcontent.com
-192.168.11.11 cache33-lhr1.steamcontent.com
-192.168.11.11 cache34-lhr1.steamcontent.com
-192.168.11.11 cache35-lhr1.steamcontent.com
-192.168.11.11 cache1-seo-hwng.steamcontent.com
-192.168.11.11 cache2-seo-hwng.steamcontent.com
-192.168.11.11 cache3-seo-hwng.steamcontent.com
-192.168.11.11 cache4-seo-hwng.steamcontent.com
-192.168.11.11 cache5-seo-hwng.steamcontent.com
-192.168.11.11 cache6-seo-hwng.steamcontent.com
-192.168.11.11 cache1-tyo1.steamcontent.com
-192.168.11.11 cache2-tyo1.steamcontent.com
-192.168.11.11 cache1-mad1.steamcontent.com
-192.168.11.11 cache2-mad1.steamcontent.com
-192.168.11.11 cache3-mad1.steamcontent.com
-192.168.11.11 cache4-mad1.steamcontent.com
-192.168.11.11 cache5-mad1.steamcontent.com
-192.168.11.11 cache6-mad1.steamcontent.com
-192.168.11.11 cache1-par1.steamcontent.com
-192.168.11.11 cache2-par1.steamcontent.com
-192.168.11.11 cache3-par1.steamcontent.com
-192.168.11.11 cache4-par1.steamcontent.com
-192.168.11.11 cache5-par1.steamcontent.com
-192.168.11.11 cache6-par1.steamcontent.com
-192.168.11.11 cache7-par1.steamcontent.com
-192.168.11.11 cache8-par1.steamcontent.com
-192.168.11.11 cache1-tyo2.steamcontent.com
-192.168.11.11 cache2-tyo2.steamcontent.com
-192.168.11.11 cache3-tyo2.steamcontent.com
-192.168.11.11 cache4-tyo2.steamcontent.com
-192.168.11.11 cache1-per-nxhp.steamcontent.com
-192.168.11.11 cache1-syd1.steamcontent.com
-192.168.11.11 cache2-syd1.steamcontent.com
-192.168.11.11 cache3-syd1.steamcontent.com
-192.168.11.11 cache1-scl1.steamcontent.com
-192.168.11.11 cache2-scl1.steamcontent.com
-192.168.11.11 cache2-ams1.steamcontent.com
-192.168.11.11 cache3-ams1.steamcontent.com
-192.168.11.11 cache4-ams1.steamcontent.com
-192.168.11.11 cache5-ams1.steamcontent.com
-192.168.11.11 cache6-ams1.steamcontent.com
-192.168.11.11 cache7-ams1.steamcontent.com
-192.168.11.11 cache8-ams1.steamcontent.com
-192.168.11.11 cache9-ams1.steamcontent.com
-192.168.11.11 cache10-ams1.steamcontent.com
-192.168.11.11 cache11-ams1.steamcontent.com
-192.168.11.11 cache12-ams1.steamcontent.com
-192.168.11.11 cache13-ams1.steamcontent.com
-192.168.11.11 cache14-ams1.steamcontent.com
-192.168.11.11 cache15-ams1.steamcontent.com
-192.168.11.11 cache16-ams1.steamcontent.com
-192.168.11.11 cache17-ams1.steamcontent.com
-192.168.11.11 cache18-ams1.steamcontent.com
-192.168.11.11 cache1-yyc-tsvy.steamcontent.com
-192.168.11.11 cache1-waw1.steamcontent.com
-192.168.11.11 cache2-waw1.steamcontent.com
-192.168.11.11 cache3-waw1.steamcontent.com
-192.168.11.11 cache4-waw1.steamcontent.com
-192.168.11.11 cache1-sgp1.steamcontent.com
-192.168.11.11 cache2-sgp1.steamcontent.com
-192.168.11.11 cache3-sgp1.steamcontent.com
-192.168.11.11 cache4-sgp1.steamcontent.com
-192.168.11.11 cache5-sgp1.steamcontent.com
-192.168.11.11 cache6-sgp1.steamcontent.com
-192.168.11.11 cache7-sgp1.steamcontent.com
-192.168.11.11 cache8-sgp1.steamcontent.com
-192.168.11.11 cache9-sgp1.steamcontent.com
-192.168.11.11 cache10-sgp1.steamcontent.com
-192.168.11.11 cache11-sgp1.steamcontent.com
-192.168.11.11 cache12-sgp1.steamcontent.com
-192.168.11.11 cache1-vno-bite.steamcontent.com
-192.168.11.11 cache2-vno-bite.steamcontent.com
-192.168.11.11 cache1-svo-retn.steamcontent.com
-192.168.11.11 cache2-svo-retn.steamcontent.com
-192.168.11.11 cache1-mmx-cmhm.steamcontent.com
-192.168.11.11 cache1-okc1.steamcontent.com
-192.168.11.11 cache2-okc1.steamcontent.com
-192.168.11.11 cache3-okc1.steamcontent.com
-192.168.11.11 cache4-okc1.steamcontent.com
-192.168.11.11 cache5-okc1.steamcontent.com
-192.168.11.11 cache6-okc1.steamcontent.com
-192.168.11.11 cache7-okc1.steamcontent.com
-192.168.11.11 cache8-okc1.steamcontent.com
-192.168.11.11 cache1-vie1.steamcontent.com
-192.168.11.11 cache2-vie1.steamcontent.com
-192.168.11.11 cache3-vie1.steamcontent.com
-192.168.11.11 cache4-vie1.steamcontent.com
-192.168.11.11 cache5-vie1.steamcontent.com
-192.168.11.11 cache6-vie1.steamcontent.com
-192.168.11.11 cache7-vie1.steamcontent.com
-192.168.11.11 cache8-vie1.steamcontent.com
-192.168.11.11 cache9-vie1.steamcontent.com
-192.168.11.11 cache10-vie1.steamcontent.com
-192.168.11.11 cache11-vie1.steamcontent.com
-192.168.11.11 cache12-vie1.steamcontent.com
-192.168.11.11 cache1-sto2.steamcontent.com
-192.168.11.11 cache2-sto2.steamcontent.com
-192.168.11.11 cache3-sto2.steamcontent.com
-192.168.11.11 cache4-sto2.steamcontent.com
-192.168.11.11 cache5-sto2.steamcontent.com
-192.168.11.11 cache6-sto2.steamcontent.com
-192.168.11.11 cache7-sto2.steamcontent.com
-192.168.11.11 cache8-sto2.steamcontent.com
-192.168.11.11 cache9-sto2.steamcontent.com
-192.168.11.11 cache10-sto2.steamcontent.com
-192.168.11.11 cache1-bkk-TRUE.steamcontent.com
-192.168.11.11 cache2-bkk-TRUE.steamcontent.com
-192.168.11.11 cache1-sof-retn.steamcontent.com
-192.168.11.11 cache2-sof-retn.steamcontent.com
-192.168.11.11 cache1-got-cmhm.steamcontent.com
-192.168.11.11 cache1-mfm-cdtm.steamcontent.com
-192.168.11.11 cache2-mfm-cdtm.steamcontent.com
-192.168.11.11 cache1-yyz-tsvy.steamcontent.com
-192.168.11.11 cache1-maa1.steamcontent.com
-192.168.11.11 cache1-lim1.steamcontent.com
-192.168.11.11 cache2-lim1.steamcontent.com
-192.168.11.11 cache1-ymo-bell.steamcontent.com
-192.168.11.11 cache2-ymo-bell.steamcontent.com
-192.168.11.11 cache1-uln-untl.steamcontent.com
-192.168.11.11 cache1-mel-aubb.steamcontent.com
-192.168.11.11 cache1-dxb1.steamcontent.com
-192.168.11.11 cache2-dxb1.steamcontent.com
-192.168.11.11 cache1-bkk-jast.steamcontent.com
-192.168.11.11 cache2-bkk-jast.steamcontent.com
-192.168.11.11 cache1-hel-retn.steamcontent.com
-192.168.11.11 cache2-hel-retn.steamcontent.com
-192.168.11.11 cache1-yyc-shaw.steamcontent.com
-192.168.11.11 cache1-bom1.steamcontent.com
-192.168.11.11 cache10-gru1.steamcontent.com
-192.168.11.11 cache10-seo1.steamcontent.com
-192.168.11.11 cache12-atl1.steamcontent.com
-192.168.11.11 cache12-fra1.steamcontent.com
-192.168.11.11 cache13-atl1.steamcontent.com
-192.168.11.11 cache17-fra1.steamcontent.com
-192.168.11.11 cache18-fra1.steamcontent.com
-192.168.11.11 cache19-fra1.steamcontent.com
-192.168.11.11 cache1-akl-tpwr.steamcontent.com
-192.168.11.11 cache1-akl-vgnz.steamcontent.com
-192.168.11.11 cache1-ala-kzkt.steamcontent.com
-192.168.11.11 cache1-ams1.steamcontent.com
-192.168.11.11 cache1-bne-aubb.steamcontent.com
-192.168.11.11 cache1-bud-retn.steamcontent.com
-192.168.11.11 cache1-cfc-acol.steamcontent.com
-192.168.11.11 cache1-dfw1.steamcontent.com
-192.168.11.11 cache1-dsa-ask4.steamcontent.com
-192.168.11.11 cache1-eze1.steamcontent.com
-192.168.11.11 cache1-fra2.steamcontent.com
-192.168.11.11 cache1-iev-datl.steamcontent.com
-192.168.11.11 cache1-jnb1.steamcontent.com
-192.168.11.11 cache1-mel-edgx.steamcontent.com
-192.168.11.11 cache1-ods-retn.steamcontent.com
-192.168.11.11 cache1-per-edgx.steamcontent.com
-192.168.11.11 cache1-rix-retn.steamcontent.com
-192.168.11.11 cache1-seo1.steamcontent.com
-192.168.11.11 cache1-waw-extl.steamcontent.com
-192.168.11.11 cache20-fra1.steamcontent.com
-192.168.11.11 cache2-akl-tpwr.steamcontent.com
-192.168.11.11 cache2-akl-vgnz.steamcontent.com
-192.168.11.11 cache2-ala-kzkt.steamcontent.com
-192.168.11.11 cache2-bne-aubb.steamcontent.com
-192.168.11.11 cache2-bud-retn.steamcontent.com
-192.168.11.11 cache2-cfc-acol.steamcontent.com
-192.168.11.11 cache2-dfw1.steamcontent.com
-192.168.11.11 cache2-dsa-ask4.steamcontent.com
-192.168.11.11 cache2-eze1.steamcontent.com
-192.168.11.11 cache2-fra2.steamcontent.com
-192.168.11.11 cache2-got-cmhm.steamcontent.com
-192.168.11.11 cache2-gsv-retn.steamcontent.com
-192.168.11.11 cache2-iev-datl.steamcontent.com
-192.168.11.11 cache2-jnb1.steamcontent.com
-192.168.11.11 cache2-mel-aubb.steamcontent.com
-192.168.11.11 cache2-mel-edgx.steamcontent.com
-192.168.11.11 cache2-mmx-cmhm.steamcontent.com
-192.168.11.11 cache2-ods-retn.steamcontent.com
-192.168.11.11 cache2-per-edgx.steamcontent.com
-192.168.11.11 cache2-per-nxhp.steamcontent.com
-192.168.11.11 cache2-rix-retn.steamcontent.com
-192.168.11.11 cache2-seo1.steamcontent.com
-192.168.11.11 cache2-waw-extl.steamcontent.com
-192.168.11.11 cache2-yvr-shaw.steamcontent.com
-192.168.11.11 cache2-yyc-shaw.steamcontent.com
-192.168.11.11 cache3-dfw1.steamcontent.com
-192.168.11.11 cache3-eze1.steamcontent.com
-192.168.11.11 cache3-fra2.steamcontent.com
-192.168.11.11 cache3-seo1.steamcontent.com
-192.168.11.11 cache3-tyo1.steamcontent.com
-192.168.11.11 cache4-dfw1.steamcontent.com
-192.168.11.11 cache4-eze1.steamcontent.com
-192.168.11.11 cache4-fra2.steamcontent.com
-192.168.11.11 cache4-seo1.steamcontent.com
-192.168.11.11 cache4-syd1.steamcontent.com
-192.168.11.11 cache4-tyo1.steamcontent.com
-192.168.11.11 cache5-fra2.steamcontent.com
-192.168.11.11 cache5-seo1.steamcontent.com
-192.168.11.11 cache5-syd1.steamcontent.com
-192.168.11.11 cache5-tyo1.steamcontent.com
-192.168.11.11 cache6-fra2.steamcontent.com
-192.168.11.11 cache6-seo1.steamcontent.com
-192.168.11.11 cache6-tyo1.steamcontent.com
-192.168.11.11 cache7-fra2.steamcontent.com
-192.168.11.11 cache7-lhr1.steamcontent.com
-192.168.11.11 cache7-seo1.steamcontent.com
-192.168.11.11 cache7-seo-hwng.steamcontent.com
-192.168.11.11 cache8-fra1.steamcontent.com
-192.168.11.11 cache8-fra2.steamcontent.com
-192.168.11.11 cache8-seo1.steamcontent.com
-192.168.11.11 cache9-gru1.steamcontent.com
-192.168.11.11 cache9-seo1.steamcontent.com
-192.168.11.11 google.cdn.steampipe.steamcontent.com
-192.168.11.11 google2.cdn.steampipe.steamcontent.com
-192.168.11.11 alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com
-192.168.11.11 edge.steam-dns.top.comcast.net
-192.168.11.11 steam.eca.qtlglb.com
-192.168.11.11 steam.naeu.qtlglb.com
-192.168.11.11 steam.ru.qtlglb.com
-192.168.11.11 steampipe-kr.akamaized.net
-192.168.11.11 steampipe-partner.akamaized.net
-192.168.11.11 steampipe.akamaized.net
-192.168.11.11 f3b7q2p3.ssl.hwcdn.net
-192.168.11.11 telus.cdn.steampipe.steamcontent.com
-192.168.11.11 steam.cdn.on.net
-192.168.11.11 steam.cdn.orcon.net.nz
-192.168.11.11 steam.cdn.slingshot.co.nz
-192.168.11.11 steam.cdn.webra.ru
+||cache.*-lax1.steamcontent.com^
+||cache.*-iad1.steamcontent.com^
+||cache.*-shaw.steamcontent.com^
+||cache.*-fra1.steamcontent.com^
+||cache.*-atl1.steamcontent.com^
+||cache.*-sto1.steamcontent.com^
+||cache.*-hkg1.steamcontent.com^
+||cache.*-gru1.steamcontent.com^
+||cache.*-retn.steamcontent.com^
+||cache.*-ord1.steamcontent.com^
+||cache.*-man1.steamcontent.com^
+||cache.*-sea1.steamcontent.com^
+||cache.*-bell.steamcontent.com^
+||cache.*-lhr1.steamcontent.com^
+||cache.*-hwng.steamcontent.com^
+||cache.*-tyo1.steamcontent.com^
+||cache.*-mad1.steamcontent.com^
+||cache.*-par1.steamcontent.com^
+||cache.*-tyo2.steamcontent.com^
+||cache.*-nxhp.steamcontent.com^
+||cache.*-syd1.steamcontent.com^
+||cache.*-scl1.steamcontent.com^
+||cache.*-ams1.steamcontent.com^
+||cache.*-tsvy.steamcontent.com^
+||cache.*-waw1.steamcontent.com^
+||cache.*-sgp1.steamcontent.com^
+||cache.*-bite.steamcontent.com^
+||cache.*-cmhm.steamcontent.com^
+||cache.*-okc1.steamcontent.com^
+||cache.*-vie1.steamcontent.com^
+||cache.*-sto2.steamcontent.com^
+||cache.*-TRUE.steamcontent.com^
+||cache.*-cdtm.steamcontent.com^
+||cache.*-maa1.steamcontent.com^
+||cache.*-lim1.steamcontent.com^
+||cache.*-untl.steamcontent.com^
+||cache.*-aubb.steamcontent.com^
+||cache.*-dxb1.steamcontent.com^
+||cache.*-jast.steamcontent.com^
+||cache.*-bom1.steamcontent.com^
+||cache.*-seo1.steamcontent.com^
+||cache.*-tpwr.steamcontent.com^
+||cache.*-vgnz.steamcontent.com^
+||cache.*-kzkt.steamcontent.com^
+||cache.*-acol.steamcontent.com^
+||cache.*-dfw1.steamcontent.com^
+||cache.*-ask4.steamcontent.com^
+||cache.*-eze1.steamcontent.com^
+||cache.*-fra2.steamcontent.com^
+||cache.*-datl.steamcontent.com^
+||cache.*-jnb1.steamcontent.com^
+||cache.*-edgx.steamcontent.com^
+||cache.*-extl.steamcontent.com^
+||google.cdn.steampipe.steamcontent.com^
+||google2.cdn.steampipe.steamcontent.com^
+||alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com^
+||edge.steam-dns.top.comcast.net^
+||steam.eca.qtlglb.com^
+||steam.naeu.qtlglb.com^
+||steam.ru.qtlglb.com^
+||steampipe-kr.akamaized.net^
+||steampipe-partner.akamaized.net^
+||steampipe.akamaized.net^
+||f3b7q2p3.ssl.hwcdn.net^
+||telus.cdn.steampipe.steamcontent.com^
+||steam.cdn.on.net^
+||steam.cdn.orcon.net.nz^
+||steam.cdn.slingshot.co.nz^
+||steam.cdn.webra.ru^
