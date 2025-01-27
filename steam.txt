@@ -14,9 +14,10 @@
 /cache\d+-lhr1\.steamcontent\.com/
 /cache\d+-hwng\.steamcontent\.com/
 /cache\d+-tyo1\.steamcontent\.com/
+/cache\d+-tyo2\.steamcontent\.com/
+/cache\d+-tyo3\.steamcontent\.com/
 /cache\d+-mad1\.steamcontent\.com/
 /cache\d+-par1\.steamcontent\.com/
-/cache\d+-tyo2\.steamcontent\.com/
 /cache\d+-nxhp\.steamcontent\.com/
 /cache\d+-syd1\.steamcontent\.com/
 /cache\d+-scl1\.steamcontent\.com/
@@ -51,6 +52,7 @@
 /cache\d+-jnb1\.steamcontent\.com/
 /cache\d+-edgx\.steamcontent\.com/
 /cache\d+-extl\.steamcontent\.com/
+||fastly.cdn.steampipe.steamcontent.com^
 ||google.cdn.steampipe.steamcontent.com^
 ||google2.cdn.steampipe.steamcontent.com^
 ||alibaba.cdn.steampipe.steamcontent.com.w.alikunlun.com^
